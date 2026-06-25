@@ -87,4 +87,31 @@ As the motor sweeps smoothly between 0° and 179°, the combined data stream pai
 ---
 
 ## 📜 License
-This software and its companion hardware layout definitions are distributed under standard open-source parameters. Feel free to modify, expand, or integrate this project into your customized sensory exploration platforms.
+Creative Commons Attribution 4.0 International Public License
+
+By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+
+Section 1 – Definitions.
+a. Share means to involve material by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation.
+b. Licensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
+c. Licensor means the individual(s) or entity(ies) granting rights under this Public License.
+d. You means the individual or entity exercising the Licensed Rights under this Public License.
+
+Section 2 – Scope.
+a. License grant. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
+   1. reproduce and Share the Licensed Material, in whole or in part; and
+   2. produce, reproduce, and Share Adapted Material.
+
+Section 3 – License Conditions.
+Your exercise of the Licensed Rights is expressly made subject to the following conditions.
+a. Attribution.
+   1. If You Share the Licensed Material, You must:
+      A. retain the identification of the creator(s) of the Licensed Material and any others designated to receive attribution;
+      B. retain a copyright notice;
+      C. retain a notice that refers to this Public License;
+      D. retain a notice that refers to the disclaimer of warranties;
+      E. include a URI or hyperlink to the Licensed Material if reasonably practicable;
+   2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material.
+
+Section 4 – Disclaimer of Warranties and Limitation of Liability.
+a. Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material.
